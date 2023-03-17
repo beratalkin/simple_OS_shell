@@ -1,1 +1,1 @@
-# simple_OS_shell
+# simple operating system shell designed using C on Ubuntu virtual machine
